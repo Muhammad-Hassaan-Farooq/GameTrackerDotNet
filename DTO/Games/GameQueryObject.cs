@@ -1,0 +1,9 @@
+namespace api.Games.DTO
+{
+    public class GameQueryObject
+    {
+       public AppUser appUser { get; set; }
+        public int Page { get; set; } = 1;
+        public int PageSize { get; set; } = 10;
+    }
+}
