@@ -119,3 +119,4 @@
 /Users/muhammadhassaanfarooq/dotnetProjects/GameTracker/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/muhammadhassaanfarooq/dotnetProjects/GameTracker/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /Users/muhammadhassaanfarooq/dotnetProjects/GameTracker/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/muhammadhassaanfarooq/dotnetProjects/GameTracker/obj/Debug/net8.0/GameTracker.sourcelink.json
